@@ -5,4 +5,4 @@ library(wordcloud)
 library(tm)
 library(tidyr)
 library(igraph)
-
+library(doParallel)

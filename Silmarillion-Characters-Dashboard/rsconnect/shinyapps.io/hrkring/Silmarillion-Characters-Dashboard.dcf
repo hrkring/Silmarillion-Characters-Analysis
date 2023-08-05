@@ -1,0 +1,13 @@
+name: Silmarillion-Characters-Dashboard
+title: Silmarillion-Characters-Dashboard
+username:
+account: hrkring
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9553181
+bundleId: 7534108
+url: https://hrkring.shinyapps.io/Silmarillion-Characters-Dashboard/
+when: 1691217441.49396
+lastSyncTime: 1691217441.49398
+asMultiple: FALSE
+asStatic: FALSE

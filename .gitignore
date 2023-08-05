@@ -3,5 +3,11 @@
 .RData
 .Ruserdata
 
-data/*.csv
-data/*.txt
+data/*.Rds
+data/Silmarillion/*.txt
+data/Hunger Games/*.txt
+data/The Children of Hurin/*.txt
+data/Silmarillion/*.csv
+data/Hunger Games/*.csv
+data/The Children of Hurin/*.csv
+
